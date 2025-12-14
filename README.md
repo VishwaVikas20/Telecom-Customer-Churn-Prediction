@@ -2,6 +2,8 @@
 
 A Machine Learning project that predicts whether a telecom customer is likely to leave (churn) based on their subscription details.
 
+Kaggle Dataset used == "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"
+
 ## 👨‍💻 Project Overview
 **My Role:** Data Cleaning, Feature Engineering, Model Training, & Model Serialization.
 **Objective:** To build a robust model that processes raw data and saves a trained model for production use.
